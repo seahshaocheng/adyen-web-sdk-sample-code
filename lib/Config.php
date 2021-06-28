@@ -21,8 +21,8 @@
  */
 class Config
 {
-    const ENDPOINT_TEST = "https://checkout-test.adyen.com/services/PaymentSetupAndVerification";
-    const VERSION = "/v40";
+    const ENDPOINT_TEST = "https://checkout-test.adyen.com";
+    const VERSION = "/v67";
     const PAYMENTSESSION = "/paymentSession";
     const PAYMENTSRESULT = "/payments/result";
 
