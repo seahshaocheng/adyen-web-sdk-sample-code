@@ -25,7 +25,7 @@
 class Order
 {
     /** @array $amount - Amount is a combination of value and currency */
-    public $amount = ['value' => 19123, 'currency' => "EUR"];
+    public $amount = ['value' => 100, 'currency' => "AUD"];
 
     public function getAmount()
     {
